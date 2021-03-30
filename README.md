@@ -30,7 +30,8 @@ Solve the problems using “grep”</br>
  # grep 'ss*' datafile</br>
 </br>
 <img src="https://user-images.githubusercontent.com/54985943/112938587-dae30400-9164-11eb-9ee2-3f3130a4a75b.png" alt='regex'/>
-</br>
+
+<hr/>
 <h2>Questions 2</h2>
 Solve the problems using “egrep”</br>
 1. Find NW or EA pattern</br>
@@ -48,4 +49,3 @@ Solve the problems using “egrep”</br>
 <img src="https://user-images.githubusercontent.com/54985943/112938576-d585b980-9164-11eb-96ef-aa63c9054f5e.png" alt='regex'/>
 <hr/>
 Contributed by Duyoung Jang</br>
-Further detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
