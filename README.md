@@ -1,7 +1,7 @@
 # Linux_Regular_Expressions
 Linux_Regular_Expressions</br>
 Contributed by Duyoung Jang</br>
-Futher detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
+Further detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
 
 <hr/>
 <h1>Exercises 1~2</h1>
@@ -48,4 +48,4 @@ Solve the problems using “egrep”</br>
 <img src="https://user-images.githubusercontent.com/54985943/112938576-d585b980-9164-11eb-96ef-aa63c9054f5e.png" alt='regex'/>
 <hr/>
 Contributed by Duyoung Jang</br>
-Futher detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
+Further detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
