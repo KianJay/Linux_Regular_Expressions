@@ -1,6 +1,9 @@
 # Linux_Regular_Expressions
-Linux_Regular_Expressions
+Linux_Regular_Expressions</br>
+Contributed by Duyoung Jang</br>
+Futher detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
 
+<hr/>
 <h1>Exercises 1~2</h1>
 <img src='https://user-images.githubusercontent.com/54985943/112938908-83916380-9165-11eb-9df3-0f6f48c7ab74.png' alt="regex" />
 “datafile” for the exercises 1~2. you can download here
@@ -43,3 +46,6 @@ Solve the problems using “egrep”</br>
  # egrep 'S(h|u)' datafile</br></br>
 
 <img src="https://user-images.githubusercontent.com/54985943/112938576-d585b980-9164-11eb-96ef-aa63c9054f5e.png" alt='regex'/>
+<hr/>
+Contributed by Duyoung Jang</br>
+Futher detail can be found in my blog https://medium.com/kianj/linux-regular-expressions-regex-grep-with-exercise-54c728be5d7
