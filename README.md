@@ -7,7 +7,7 @@ Linux_Regular_Expressions
 
 <h2>Questions 1</h2>
 Solve the problems using “grep”</br>
-Find the lines starting with “n”</br>
+1. Find the lines starting with “n”</br>
 2. Find the lines ending with 4</br>
 3. Find “TB Savage”</br>
 4. Find the lines with “5.”</br>
@@ -18,13 +18,13 @@ Find the lines starting with “n”</br>
 </br>
 <h2>Answers 1</h2>
 <p> # grep '^n' datafile</p>
-- # grep '4$' datafile
-- # grep 'TB Savage' datafile
-- # grep '5\.' datafile
-- # grep '^[we]' datafile
-- # grep -v 'M' datafile
-- # grep '[A-Z][A-Z] [A-Z]' datafile
-- # grep 'ss*' datafile
+ # grep '4$' datafile
+ # grep 'TB Savage' datafile
+ # grep '5\.' datafile
+ # grep '^[we]' datafile
+ # grep -v 'M' datafile
+ # grep '[A-Z][A-Z] [A-Z]' datafile
+ # grep 'ss*' datafile
 </br>
 <img src="https://user-images.githubusercontent.com/54985943/112938587-dae30400-9164-11eb-9ee2-3f3130a4a75b.png" alt='regex'/>
 </br>
@@ -36,10 +36,10 @@ Solve the problems using “egrep”</br>
 4. Find the lines that contain “no” pattern where it repeats more than once</br>
 5. Fine the lines with “Sh” and “Su”</br>
 <h2>Answers 2</h2>
-- # egrep '(NW|EA)' datafile</br>
-- # egrep '3+' datafile</br>
-- # egrep '(2\.?[0-9])' datafile</br>
-- # egrep '(no)+' datafile</br>
-- # egrep 'S(h|u)' datafile</br>
+ # egrep '(NW|EA)' datafile</br>
+ # egrep '3+' datafile</br>
+ # egrep '(2\.?[0-9])' datafile</br>
+ # egrep '(no)+' datafile</br>
+ # egrep 'S(h|u)' datafile</br>
 
 <img src="https://user-images.githubusercontent.com/54985943/112938576-d585b980-9164-11eb-96ef-aa63c9054f5e.png" alt='regex'/>
