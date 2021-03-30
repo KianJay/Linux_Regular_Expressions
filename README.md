@@ -17,14 +17,14 @@ Solve the problems using “grep”</br>
 8. Find the lines where “s” repeats more than once</br>
 </br>
 <h2>Answers 1</h2>
-<p> # grep '^n' datafile</p>
- # grep '4$' datafile
- # grep 'TB Savage' datafile
- # grep '5\.' datafile
- # grep '^[we]' datafile
- # grep -v 'M' datafile
- # grep '[A-Z][A-Z] [A-Z]' datafile
- # grep 'ss*' datafile
+ # grep '^n' datafile</br>
+ # grep '4$' datafile</br>
+ # grep 'TB Savage' datafile</br>
+ # grep '5\.' datafile</br>
+ # grep '^[we]' datafile</br>
+ # grep -v 'M' datafile</br>
+ # grep '[A-Z][A-Z] [A-Z]' datafile</br>
+ # grep 'ss*' datafile</br>
 </br>
 <img src="https://user-images.githubusercontent.com/54985943/112938587-dae30400-9164-11eb-9ee2-3f3130a4a75b.png" alt='regex'/>
 </br>
@@ -40,6 +40,6 @@ Solve the problems using “egrep”</br>
  # egrep '3+' datafile</br>
  # egrep '(2\.?[0-9])' datafile</br>
  # egrep '(no)+' datafile</br>
- # egrep 'S(h|u)' datafile</br>
+ # egrep 'S(h|u)' datafile</br></br>
 
 <img src="https://user-images.githubusercontent.com/54985943/112938576-d585b980-9164-11eb-96ef-aa63c9054f5e.png" alt='regex'/>
