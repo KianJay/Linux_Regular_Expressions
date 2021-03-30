@@ -1,6 +1,6 @@
 # Linux_Regular_Expressions
-Linux_Regular_Expressions</br>
-
+Linux_Regular_Expressions</b>
+REGEX PRACTICE & EXERCISE SOLVING SOME PROBLEMS
 
 <hr/>
 <h1>Exercises 1~2</h1>
